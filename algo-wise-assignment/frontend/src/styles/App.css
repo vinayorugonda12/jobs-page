@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  header {
+    text-align: center;
+   background-color: rgb(104, 237, 237);
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    width: 70%;
+    font-size: 16px;
+  }
+  
+  ul {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+  }
+  
+  h1, h2, h5 {
+    color: #1035ec;
+   
+  }
+  h4{
+    background-color: rgb(222, 235, 235);
+  
+    display: inline;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
